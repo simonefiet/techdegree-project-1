@@ -2,8 +2,7 @@
 
 // PHP - Random Quote Generator
 
-// Create the Multidimensional array of quote elements and name it quotes
-// Each inner array element should be an associative array
+// A Multidimensional array of quote elements
 
 $quotes = array(
 	[
@@ -43,6 +42,7 @@ $quotes = array(
 	]
 );
 
+//Colors in array - is used for body background
 $colors = array(
 	"#3639b5", "#7f36b5", "#e582b8", "#36b581", "#dd421d", "#debd0e"
 );
